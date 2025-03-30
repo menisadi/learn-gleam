@@ -13,11 +13,11 @@
 - [x] Number formats
 - [x] Equality
 - [x] Strings
-- [ ] Bools
-- [ ] Assignments
-- [ ] Discard patterns
-- [ ] Type annotations
-- [ ] Type imports
+- [x] Bools
+- [x] Assignments
+- [x] Discard patterns
+- [x] Type annotations
+- [x] Type imports
 - [ ] Type aliases
 - [ ] Blocks
 - [ ] Lists
