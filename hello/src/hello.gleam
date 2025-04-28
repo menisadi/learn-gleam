@@ -1,5 +1,7 @@
 import gleam/io
 
 pub fn main() -> Nil {
-  io.println("Hello from hello!")
+  let msg: String = "Hi!"
+  let name: String = "Meni"
+  io.println(msg <> ", " <> name)
 }
