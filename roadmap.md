@@ -46,8 +46,8 @@
 - [x] Tail calls
 - [x] List recursion
 - [x] Multiple subjects
-- [ ] Alternative patterns
-- [ ] Pattern aliases
+- [x] Alternative patterns
+- [x] Pattern aliases
 - [ ] Guards
 
 ## Data types
