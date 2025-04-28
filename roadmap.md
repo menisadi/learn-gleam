@@ -18,34 +18,34 @@
 - [x] Discard patterns
 - [x] Type annotations
 - [x] Type imports
-- [ ] Type aliases
-- [ ] Blocks
-- [ ] Lists
-- [ ] Constants
+- [x] Type aliases
+- [x] Blocks
+- [x] Lists
+- [x] Constants
 
 ## Functions
 
-- [ ] Functions
-- [ ] Higher order functions
-- [ ] Anonymous functions
-- [ ] Function captures
-- [ ] Generic functions
-- [ ] Pipelines
-- [ ] Labelled arguments
-- [ ] Label shorthand syntax
-- [ ] Documentation comments
-- [ ] Deprecations
+- [x] Functions
+- [x] Higher order functions
+- [x] Anonymous functions
+- [x] Function captures
+- [x] Generic functions
+- [x] Pipelines
+- [x] Labelled arguments
+- [x] Label shorthand syntax
+- [x] Documentation comments
+- [x] Deprecations
 
 ## Flow control
 
-- [ ] Case expressions
-- [ ] Variable patterns
-- [ ] String patterns
-- [ ] List patterns
-- [ ] Recursion
-- [ ] Tail calls
-- [ ] List recursion
-- [ ] Multiple subjects
+- [x] Case expressions
+- [x] Variable patterns
+- [x] String patterns
+- [x] List patterns
+- [x] Recursion
+- [x] Tail calls
+- [x] List recursion
+- [x] Multiple subjects
 - [ ] Alternative patterns
 - [ ] Pattern aliases
 - [ ] Guards
