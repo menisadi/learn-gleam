@@ -10,14 +10,14 @@ fn fib(n) -> Int {
 
 fn fib_tail_helper(n, a, b) {
   case n {
-    1 -> 1
-    0 -> 1
+    1 -> b
+    0 -> b
     _ -> fib_tail_helper(n-1, b, a+b)
   }
 }
 
 fn fib_tail(n) {
-  fib_tail_helper(n, 0, 1)
+  fib_tail_helper(n, 1, 1)
 }
 
 pub fn main() {
@@ -30,4 +30,3 @@ pub fn main() {
   let fx2 = fib_tail(x)
   echo fx2
 }
-
